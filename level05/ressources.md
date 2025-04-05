@@ -1,4 +1,4 @@
-## 1. Rechercher dans les fichiers level05 dans le fichier
+## 1. Rechercher dans les fichiers 'level05'
 
     find / -name level05 2>/dev/null
 
