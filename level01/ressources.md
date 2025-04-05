@@ -24,6 +24,6 @@ su flag01
     Commande pour obtenir le flag : getflag
     Résultat : f2av5il02puano7naaf6adaaf
 
-su level01
+su level02
 
     Mot de passe : f2av5il02puano7naaf6adaaf

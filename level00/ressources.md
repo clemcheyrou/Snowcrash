@@ -25,6 +25,6 @@ su flag00
     Commande pour obtenir le flag : getflag
     Résultat : x24ti5gi3x0ol2eh4esiuxias
 
-su level00
+su level01
 
     Mot de passe : x24ti5gi3x0ol2eh4esiuxias
