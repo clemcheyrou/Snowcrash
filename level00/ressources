@@ -1,0 +1,21 @@
+- **Chercher les fichiers appartenant à un utilisateur spécifique** :
+
+```bash
+find / -user flag00 2>/dev/null
+```
+
+- `find /` : Recherche dans tout le système de fichiers.
+- `user flag00` : Filtre pour les fichiers appartenant à l'utilisateur `flag00`.
+- `2>/dev/null` : Ignore les messages d'erreur (tels que les permissions refusées).
+
+```bash
+cat /usr/sbin/john
+```
+Ca affiche cdiiddwpgswtgt
+**Utiliser un outil en ligne pour résoudre un chiffrement César** :
+
+Allez sur [dcode.fr/chiffre-cesar](https://www.dcode.fr/chiffre-cesar) pour déchiffrer 'cdiiddwpgswtgt' en utilisant le chiffrement César. => nottoohardhere
+
+**Resultat** :
+su flag00: nottoohardhere (getflag) => `x24ti5gi3x0o12eh4esiuxias`
+su level00: `x24ti5gi3x0o12eh4esiuxias`
