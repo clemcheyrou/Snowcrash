@@ -23,8 +23,8 @@ su flag00
 
     Mot de passe : nottoohardhere
     Commande pour obtenir le flag : getflag
-    Résultat : x24ti5gi3x0o12eh4esiuxias
+    Résultat : x24ti5gi3x0ol2eh4esiuxias
 
 su level00
 
-    Mot de passe : x24ti5gi3x0o12eh4esiuxias
+    Mot de passe : x24ti5gi3x0ol2eh4esiuxias
