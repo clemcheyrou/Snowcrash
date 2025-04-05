@@ -16,7 +16,7 @@ En observant les packets correspondant aux '.', on voit que le '.' correspond a 
 
 Donc en supprimant les caracteres avant les points on obtient : ft_waNDReL0L
 
-## 2. Connexion
+## 3. Connexion
 
 su flag02
 

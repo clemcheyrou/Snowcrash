@@ -14,7 +14,7 @@ cat /usr/sbin/john
 
 ## 3. Utiliser un outil en ligne pour résoudre un chiffrement César
 
-    Allez sur dcode.fr/chiffre-cesar pour déchiffrer cdiiddwpgswtgt en utilisant le chiffrement César.
+Allez sur dcode.fr/chiffre-cesar pour déchiffrer cdiiddwpgswtgt en utilisant le chiffrement César.
     Résultat : nottoohardhere
 
 ## 4. Connexion
