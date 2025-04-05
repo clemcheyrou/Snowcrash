@@ -10,7 +10,7 @@ John est l'un des logiciels de cassage de mots de passe les plus populaires, car
 
 On recupere le fichier en local
 
-    scp -P 4242 level01@192.168.56.2:/etc/passwd .
+    scp -P 4242 level01@192.168.56.101:/etc/passwd .
 
     ./john passwd
 
