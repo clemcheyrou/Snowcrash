@@ -15,9 +15,9 @@ Attend un fichier en arg, mais nous n'avons pas l'autorisation d'ouvrir le fichi
 
 su flag08
 
-    Mot de passe : nottoohardhere
+    Mot de passe : quif5eloekouj29ke0vouxean
     Commande pour obtenir le flag : getflag
-    Résultat : quif5eloekouj29ke0vouxean
+    Résultat : 25749xKZ8L7DkSCwJkT9dyv6f
 
 su level09
 
