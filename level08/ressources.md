@@ -6,7 +6,7 @@ Attend un fichier en arg, mais nous n'avons pas l'autorisation d'ouvrir le fichi
 
 ## 2. Lien symbolique
 
-    ln -s /home/user/level08/token /tmp/token
+    ln -s /home/user/level08/token /tmp/result
 
     ./level08 /tmp/test
     Cela affiche: quif5eloekouj29ke0vouxean
